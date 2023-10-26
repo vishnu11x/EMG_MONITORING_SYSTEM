@@ -203,13 +203,3 @@ fprintf("Result of 3 sEMG: %.3g%%\n",result3);
 fprintf("Result of 4 sEMG: %.3g%%\n",result4);
 fprintf("Result of 5 sEMG: %.3g%%\n",result5);
 fprintf("Result of 6 sEMG: %.3g%%\n",result6);
-
-
-
-
-
-
-
-
-
-
